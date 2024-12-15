@@ -1,0 +1,72 @@
+
+What information do I need to provide for the system to make accurate recommendations?
+You need to provide detailed symptoms, and the system may also ask for additional information like age, medical history, and lifestyle.
+
+Is my personal health information stored securely?
+Yes, the system ensures that all user data is encrypted and stored securely to protect your privacy.
+
+Can I use the system to monitor chronic conditions like diabetes or hypertension?
+Yes, the system can track symptoms and provide ongoing advice for managing chronic conditions.
+
+Does the system offer medication recommendations?
+Yes, the system provides medication suggestions for common conditions, but it's advised to consult with a healthcare professional before taking any medication.
+
+Can I track my symptoms over time using the system?
+Yes, you can log and track symptoms over time, and the system will analyze patterns to provide ongoing recommendations.
+
+Does the system provide lifestyle and diet recommendations based on my health condition?
+Yes, the system offers tailored advice on lifestyle and diet modifications based on the condition it predicts.
+
+Can I access the system through a mobile application?
+A mobile application is currently in development to offer a more convenient user experience.
+
+How accurate are the predictions made by the system?
+The system uses machine learning models with high accuracy rates, but it’s recommended to verify the results with a medical professional.
+
+Does the system support multiple users or family health monitoring?
+Currently, the system is designed for individual users, but a family health monitoring feature may be added later.
+
+Can the system detect the severity of my condition based on the symptoms I provide?
+The system analyzes symptoms and can indicate if they match serious conditions that require immediate medical attention.
+
+Is there a way to get more information about a disease diagnosed by the system?
+Yes, the system provides detailed descriptions of each disease, including symptoms, causes, and treatment options.
+
+Does the system support integration with wearable devices for real-time health monitoring?
+Currently, wearable device integration is not available, but it may be added in future updates.
+
+Can the system provide advice for managing stress or anxiety?
+Yes, the system includes recommendations for managing stress-related symptoms and mental well-being.
+
+Are the recommendations specific to different age groups, like children or seniors?
+Yes, the system offers age-specific health advice tailored for children, adults, and seniors.
+
+Does the system provide guidelines for seasonal diseases like the flu?
+Yes, it includes information on seasonal illnesses and preventive measures.
+
+Can I export my health data from the system for medical consultations?
+Yes, you can export your health records and symptom history for review or to share with healthcare professionals.
+
+Does the system notify users when they need to consult a doctor?
+Yes, the system can alert you if your symptoms indicate a need for medical consultation.
+
+Can the system provide workout recommendations based on my health condition?
+Yes, the system offers workout suggestions that are safe and beneficial based on your condition.
+
+Is the system compatible with electronic health record (EHR) systems?
+Currently, it does not integrate with EHR systems, but this feature may be explored in future updates.
+
+How does the system update its database of symptoms and diseases?
+The system’s database is regularly updated with new medical information to ensure accurate and up-to-date recommendations.
+
+Does the system support personalized health goals like weight management?
+Yes, users can set health goals, and the system will offer guidance to achieve these goals.
+
+Can the system differentiate between adult and pediatric diseases?
+Yes, the system uses separate datasets for adults and children to provide accurate predictions for different age groups.
+
+How does the system handle conflicting symptoms or conditions?
+The system analyzes symptom patterns and resolves conflicts using machine learning algorithms to offer the most likely diagnosis.
+
+Can I customize the frequency of health check reminders from the system?
+Yes, you can set reminders to regularly input or update your symptoms and health data
